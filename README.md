@@ -12,7 +12,7 @@ Lumen-IM 是一个网页版在线即时聊天项目，前端使用 Element-ui + 
 
 ## 2、项目DEMO
 
-- 地址： [http://im.gzydong.club](http://im.gzydong.club)
+- 地址： [http://im.gzydong.com](http://im.gzydong.com)
 - 账号： 18798272054 或 18798272055
 - 密码： admin123
 
